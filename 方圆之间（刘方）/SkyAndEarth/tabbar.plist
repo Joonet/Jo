@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>classname</key>
+		<string>TraveNoteViewController</string>
+		<key>title</key>
+		<string>游记</string>
+		<key>image</key>
+		<string>tabbar_news</string>
+	</dict>
+	<dict>
+		<key>classname</key>
+		<string>DestinationViewController</string>
+		<key>title</key>
+		<string>目的地</string>
+		<key>image</key>
+		<string>tabbar_picture</string>
+	</dict>
+	<dict>
+		<key>classname</key>
+		<string>SubjectViewController</string>
+		<key>title</key>
+		<string>专题</string>
+		<key>image</key>
+		<string>tabbar_video</string>
+	</dict>
+	<dict>
+		<key>classname</key>
+		<string>SettingViewController</string>
+		<key>title</key>
+		<string>设置</string>
+		<key>image</key>
+		<string>tabbar_setting</string>
+	</dict>
+</array>
+</plist>
